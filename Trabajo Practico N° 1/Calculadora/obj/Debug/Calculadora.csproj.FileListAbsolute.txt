@@ -1,0 +1,18 @@
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\bin\Debug\Calculadora.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\bin\Debug\Calculadora.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.pdb
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.exe
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.pdb
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\bin\Debug\Calculadora.exe
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\bin\Debug\Calculadora.pdb
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Balabasquer\Trabajo Practico N° 1\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
