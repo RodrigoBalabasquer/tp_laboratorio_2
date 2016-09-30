@@ -1,0 +1,6 @@
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Codigo Principal\bin\Debug\Codigo Principal.exe.config
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Codigo Principal\bin\Debug\Codigo Principal.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Codigo Principal\bin\Debug\Codigo Principal.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Codigo Principal\obj\Debug\Codigo Principal.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Codigo Principal\obj\Debug\Codigo Principal.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Codigo Principal\obj\Debug\Codigo Principal.pdb
