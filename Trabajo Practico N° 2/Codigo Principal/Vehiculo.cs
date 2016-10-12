@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Codigo_Principal
 {
-    public class Vehiculo
+    public abstract class Vehiculo
     {   
         /// <summary>
         /// Agregamos los distintos valores del enumerado
@@ -31,10 +31,17 @@ namespace Codigo_Principal
             this._color = Color;
         }
         /// <summary>
+        /// Propiedad abstracta que devuelve la cantidad de ruedas que tiene el vehiculo
+        /// </summary>
+        protected abstract int CantidadDeRuedas
+        {
+            get;
+        }
+        /// <summary>
         /// Retorna un string con los datos del vehiculo
         /// </summary>
         /// <returns></returns>
-        public string Mostrar()
+        public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
@@ -44,6 +51,30 @@ namespace Codigo_Principal
             sb.AppendLine("---------------------");
 
             return sb.ToString();
+        }
+        /// <summary>
+        /// Dos vehículos son iguales si su patente es la misma
+        /// </summary>
+        /// <param name="v1"></param>
+        /// <param name="v2"></param>
+        /// <returns></returns>
+        public static bool operator ==(Vehiculo v1, Vehiculo v2)
+        {
+            if (v1._patente == v2._patente)
+                return true;
+                return false;
+        }
+        /// <summary>
+        /// Dos vehículos son distintos si su patente es distinta
+        /// </summary>
+        /// <param name="v1"></param>
+        /// <param name="v2"></param>
+        /// <returns></returns>
+        public static bool operator !=(Vehiculo v1, Vehiculo v2)
+        {
+            if (v1 == v2)
+                return false;
+                return true;
         }
         
     }

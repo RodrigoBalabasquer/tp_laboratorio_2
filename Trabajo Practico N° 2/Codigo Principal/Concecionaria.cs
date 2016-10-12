@@ -11,6 +11,15 @@ namespace Codigo_Principal
         private List<Vehiculo> _vehiculos;
         protected int _espacioDisponible;
         /// <summary>
+        /// Agregamos los distintos valores del enumerado
+        /// </summary>
+        public enum ETipo
+        {
+            Moto, Camion, Automovil, Todos
+        }
+        
+        #region Constructores
+        /// <summary>
         /// Constructor del concecionario que inicializa el listado
         /// </summary>
         public Concecionaria()
@@ -25,13 +34,8 @@ namespace Codigo_Principal
         {
             this._espacioDisponible = Espacio;
         }
-        /// <summary>
-        /// Agregamos los distintos valores del enumerado
-        /// </summary>
-        public enum ETipo
-        {
-            Moto, Camion, Automovil, Todos
-        }
+        #endregion
+        #region Operadores
         /// <summary>
         /// Permite agregar un nuevo vehiculo siempre y cuando haya lugar y no se encuentre en el listado
         /// </summary>
@@ -40,14 +44,30 @@ namespace Codigo_Principal
         /// <returns></returns>
         public static Concecionaria operator +(Concecionaria concecionaria,Vehiculo vehiculo)
         {
+            bool estado = true;
             if (concecionaria._espacioDisponible <= concecionaria._vehiculos.Count) 
             {
                 Console.WriteLine("No hay espacio disponible.");
             }
             else 
             {
-                concecionaria._vehiculos.Add(vehiculo);
-                Console.WriteLine("Vehiculo agregado.");
+                foreach (Vehiculo item in concecionaria._vehiculos)
+                {
+                    if (item == vehiculo) 
+                    {
+                        estado = false;
+                        break;
+                    }
+                }
+                if (estado)
+                {
+                    concecionaria._vehiculos.Add(vehiculo);
+                    Console.WriteLine("Vehiculo agregado.");
+                }
+                else 
+                {
+                    Console.WriteLine("El vehiculo ya habia sido agregado");
+                }
             }
             return concecionaria;
         }
@@ -59,24 +79,28 @@ namespace Codigo_Principal
         /// <returns></returns>
         public static Concecionaria operator -(Concecionaria concecionaria, Vehiculo vehiculo)
         {
+            Concecionaria nuevaConcecionaria = new Concecionaria(concecionaria._espacioDisponible);
             foreach (Vehiculo item in concecionaria._vehiculos)
             {
-                if (item == vehiculo) 
+                if (item != vehiculo) 
                 {
-                    concecionaria._vehiculos.Remove(vehiculo);
-                    break;
+                    nuevaConcecionaria._vehiculos.Add(item);
                 }
             }
-            return concecionaria;
+            return nuevaConcecionaria;
         }
+        #endregion 
+        #region Sobrecarga
         /// <summary>
         /// LLama a la funcion mostrar y devuelve un string
         /// </summary>
         /// <returns></returns>
-        public string ToString()
+        public override string ToString()
         {
             return this.Mostrar(this, ETipo.Todos);
         }
+        #endregion
+        #region Metodos
         /// <summary>
         /// Retorna un string con el espacio disponible, el espacio ocupado y las caracteristicas de los vehiculos del listado que coincidan con el paramatro tipoDeVehiculo
         /// </summary>
@@ -87,7 +111,7 @@ namespace Codigo_Principal
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", concecionaria._vehiculos.Count, concecionaria._espacioDisponible);
+            sb.AppendFormat("Tenemos "+concecionaria._vehiculos.Count+" lugares ocupados de un total de "+concecionaria._espacioDisponible+" disponibles");
             sb.AppendLine("");
             foreach (Vehiculo v in concecionaria._vehiculos)
             {
@@ -130,5 +154,6 @@ namespace Codigo_Principal
 
             return sb.ToString();
         }
+        #endregion
     }
 }
