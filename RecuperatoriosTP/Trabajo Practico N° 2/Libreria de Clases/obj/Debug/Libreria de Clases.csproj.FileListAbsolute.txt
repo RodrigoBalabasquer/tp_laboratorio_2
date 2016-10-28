@@ -1,0 +1,5 @@
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Libreria de Clases\bin\Debug\Libreria de Clases.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Libreria de Clases\bin\Debug\Libreria de Clases.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Libreria de Clases\obj\Debug\Libreria de Clases.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Libreria de Clases\obj\Debug\Libreria de Clases.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Trabajo Practico N° 2\Libreria de Clases\obj\Debug\Libreria de Clases.pdb
