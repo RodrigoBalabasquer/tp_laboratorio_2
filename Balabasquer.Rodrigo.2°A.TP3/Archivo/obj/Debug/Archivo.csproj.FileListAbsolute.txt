@@ -1,0 +1,20 @@
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Archivo.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Archivo.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Excepciones.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Excepciones.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Archivo\obj\Debug\Archivo.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Archivo\obj\Debug\Archivo.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Archivo.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Archivo.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Excepciones.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Excepciones.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Archivo\obj\Debug\Archivo.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Archivo\obj\Debug\Archivo.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Archivo\obj\Debug\Archivo.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Archivo.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Archivo.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Excepciones.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Archivo\bin\Debug\Excepciones.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Archivo\obj\Debug\Archivo.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Archivo\obj\Debug\Archivo.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Archivo\obj\Debug\Archivo.pdb

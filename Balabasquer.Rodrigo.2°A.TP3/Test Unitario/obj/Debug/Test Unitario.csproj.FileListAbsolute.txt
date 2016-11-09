@@ -1,0 +1,30 @@
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Test Unitario.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Test Unitario.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Archivo.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\EntidadesInstranciables.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Excepciones.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Trabajo Practico N°3.exe
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Archivo.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\EntidadesInstranciables.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Excepciones.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Trabajo Practico N°3.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\obj\Debug\Test Unitario.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\obj\Debug\Test Unitario.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\obj\Debug\Test Unitario.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Test Unitario.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Test Unitario.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Archivo.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\EntidadesAbstractas.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\EntidadesInstranciables.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Excepciones.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Trabajo Practico N°3.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Archivo.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\EntidadesAbstractas.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\EntidadesInstranciables.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Excepciones.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\bin\Debug\Trabajo Practico N°3.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\obj\Debug\Test Unitario.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\obj\Debug\Test Unitario.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Test Unitario\obj\Debug\Test Unitario.pdb

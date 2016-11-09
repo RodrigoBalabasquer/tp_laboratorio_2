@@ -1,0 +1,21 @@
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb

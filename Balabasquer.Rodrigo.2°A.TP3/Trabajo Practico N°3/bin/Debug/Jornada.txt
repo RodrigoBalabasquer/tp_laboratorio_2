@@ -1,0 +1,29 @@
+CLASE DE CrossFit POR NOMBRE COMPLETO: Lopez,Juan
+Nacionalidad: Argentino
+DNI: 12234456
+
+CARNET NUMERO: 1
+
+CLASES DEL DIA: 
+Pilates
+CrossFit
+
+ALUMNOS: 
+POR NOMBRE COMPLETO: Lopez,Juan
+Nacionalidad: Argentino
+DNI: 12234456
+
+CARNET NUMERO: 1
+
+Estado de cuenta: MesPrueba
+TOMA CLASE DE CrossFit
+
+POR NOMBRE COMPLETO: Gonzalez,Carlos
+Nacionalidad: Argentino
+DNI: 12236456
+
+CARNET NUMERO: 5
+
+Estado de cuenta: AlDia
+TOMA CLASE DE CrossFit
+

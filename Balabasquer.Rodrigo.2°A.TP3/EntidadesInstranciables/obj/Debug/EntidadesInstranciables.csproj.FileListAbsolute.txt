@@ -1,0 +1,44 @@
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesInstranciables.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesInstranciables.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Excepciones.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Excepciones.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Archivo.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Archivo.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesInstranciables.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesInstranciables.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Archivo.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesAbstractas.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Excepciones.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Archivo.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesAbstractas.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Excepciones.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesInstranciables.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesInstranciables.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Archivo.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesAbstractas.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Excepciones.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Archivo.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesAbstractas.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Excepciones.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesInstranciables.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesInstranciables.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Archivo.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesAbstractas.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Excepciones.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Archivo.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\EntidadesAbstractas.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\bin\Debug\Excepciones.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.csprojResolveAssemblyReference.cache
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\EntidadesInstranciables\obj\Debug\EntidadesInstranciables.pdb

@@ -1,0 +1,59 @@
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe.config
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesAbstractas.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesInstranciables.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Excepciones.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesAbstractas.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesInstranciables.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Excepciones.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.exe
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.pdb
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Archivo.dll
+C:\Users\Rodrigo\Desktop\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Archivo.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe.config
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesAbstractas.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesInstranciables.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Excepciones.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Archivo.dll
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesAbstractas.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesInstranciables.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Excepciones.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Archivo.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe.config
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.exe
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesAbstractas.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesInstranciables.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Excepciones.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Archivo.dll
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesAbstractas.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesInstranciables.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Excepciones.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Archivo.pdb
+D:\Balabasquer\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.csprojResolveAssemblyReference.cache
+E:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe.config
+E:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.exe
+E:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe.config
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.exe
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.exe
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Trabajo Practico N°3.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesAbstractas.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesInstranciables.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Excepciones.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Archivo.dll
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesAbstractas.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\EntidadesInstranciables.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Excepciones.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\bin\Debug\Archivo.pdb
+G:\UTN Programas 2ª cuatrimestre\Balabasquer.Rodrigo.2°A.TP3\Trabajo Practico N°3\obj\Debug\Trabajo Practico N°3.csprojResolveAssemblyReference.cache
